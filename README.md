@@ -7,7 +7,7 @@ npm init -y
 ```
 安装vite
 ```shell
-npm i vite
+npm run dev
 ```
 修改package.json：
 ```json
