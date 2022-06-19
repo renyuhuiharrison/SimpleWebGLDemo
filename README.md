@@ -20,5 +20,5 @@ npm run dev
 
 ## 运行
 ```shell
-npm i vite
+npm run dev
 ```
